@@ -18,9 +18,9 @@ class dbh
         $this->databases = [
             [
                 'host' => 'localhost',
-                'username' => 'rmsbalao_admin',
-                'password' => 'Balaod3.3r',
-                'name' => 'rmsbalao_main'
+                'username' => '',
+                'password' => '',
+                'name' => ''
             ],
             // Add more databases as needed
         ];
